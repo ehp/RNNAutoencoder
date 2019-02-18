@@ -1,3 +1,7 @@
+# RNN autoencoder runtime
+checkpoints/
+NAB/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
